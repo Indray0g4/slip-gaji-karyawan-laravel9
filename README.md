@@ -1,7 +1,7 @@
 # slip-gaji-karyawan-laravel9
 # website gaji karyawan menggunakan laravel 9
-# langkah untuk merunning
-# ekstrak rar vendor
+# * langkah untuk merunning =
+# ekstrak vendor.rae dan env.rar
 # buka terminal vsc kemudian ketik composer update
 # buat data base di mysql dengan nama "laravel"
 # lalu ketik php artisan migrate
